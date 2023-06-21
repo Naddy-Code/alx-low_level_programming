@@ -1,6 +1,9 @@
-#include <stdio.h>
+#include "main.h"
+
 /**
- * main - program that prints putchar
+ * main - Program that prints _putchar
+ *
+ * Description: prints _putchar using putchar prototype
  *
  * Return: Always 0 (success)
  */
