@@ -1,6 +1,6 @@
 /*
  * File: 9-strcpy.c
- * Auth: Nadia
+ * Auth: Nadia Mohammed
  */
 
 #include "main.h"
